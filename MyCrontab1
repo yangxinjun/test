@@ -1,1 +1,1 @@
-39 10 * * 1-5 python /home/yxj/PycharmProjects/test/zonghanshu.py >>/home/yxj/PycharmProjects/test/log 
+7 11 * * 1-5 python /home/yxj/PycharmProjects/test/zonghanshu.py >>/home/yxj/PycharmProjects/test/log 
